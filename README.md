@@ -146,7 +146,8 @@
 - 메일 자동링크의 경우 메일 수신인이 자동으로 생성됩니다.
   
   foo@bar.baz
-- + 는 @앞에는 올 수 잇지만, 뒤에는 올 수 없습니다.
+  
+- 플러스(+) 는 @앞에는 올 수 잇지만, 뒤에는 올 수 없습니다.
   
       hello@mail+xyz.example isn't valid, but 
       hello+xyz@mail.example is.
